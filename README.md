@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @seaswallowmex
 - 👀 I’m interested in ... music and coding
-- 🌱 I’m currently learning ... object oriented programming
-- 💞️ I’m looking to collaborate on ... website dev and music projects
+- 🌱 I’m currently learning ... oopl, machine learning
+- 💞️ I’m looking to collaborate on ... website dev and music projects, database systems
 - 📫 How to reach me ... btaltaa@gmail.com
 
 <!---
